@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "PewTroydJCI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BELEN\\source\\repos\\MonitorRecursosVFina\\MonitorRecursosVFina\\MonitorRecursosVFina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BELEN\\.nuget\\packages\\hinetcloud.system.diagnostics.performancecounter\\23.10.10.10\\hinetcloud.system.diagnostics.performancecounter.23.10.10.10.nupkg.sha512",
+    "C:\\Users\\BELEN\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.3\\system.configuration.configurationmanager.9.0.3.nupkg.sha512",
+    "C:\\Users\\BELEN\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.3\\system.diagnostics.eventlog.9.0.3.nupkg.sha512",
+    "C:\\Users\\BELEN\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.3\\system.diagnostics.performancecounter.9.0.3.nupkg.sha512",
+    "C:\\Users\\BELEN\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.3\\system.security.cryptography.protecteddata.9.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"HiNetCloud.System.Diagnostics.PerformanceCounter 23.10.10.10\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "HiNetCloud.System.Diagnostics.PerformanceCounter",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
