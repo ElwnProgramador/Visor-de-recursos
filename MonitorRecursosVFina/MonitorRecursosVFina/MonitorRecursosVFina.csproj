@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HiNetCloud.System.Diagnostics.PerformanceCounter" Version="23.10.10.10" />
+    <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="9.0.3" />
+  </ItemGroup>
+
+</Project>
